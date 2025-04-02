@@ -1,7 +1,7 @@
 Go program that compress and decompress files.
 
 ```shell
-git clone https://github.com/mariosdaskalas/gopress && cd gopress & go run .
+git clone https://github.com/mariosdaskalas/gopress && cd gopress && go run .
 ```
 
 To find the size of the files use the following command.
